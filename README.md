@@ -1,2 +1,2 @@
 # Boop
-pryecto 
+proyecto 
